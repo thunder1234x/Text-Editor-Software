@@ -1,2 +1,2 @@
 # Text-Editor-Software
-Text editor software with installer 
+It include a executable file 
