@@ -1,2 +1,2 @@
 # Text-Editor-Software
-It include a executable file 
+This is done by Python tkinter Module as interface
